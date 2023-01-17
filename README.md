@@ -5,3 +5,4 @@ Intro to Git Demo
 - `git add <FILE>` : add teh file to staging area
 - `git commit` : create commit aka snapshot
 - `git status` : shows the status of the repository
+- `git commit -m "MESSAGE"` : cretae the git message directly in the command line
